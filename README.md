@@ -3,4 +3,7 @@ Neural Network based extractive summariser written with help of Allennlp
 
 
 Configs- contains model configurations.
+
 Lib- Data contains dataset reader and model
+
+Data-contain training and dev data
