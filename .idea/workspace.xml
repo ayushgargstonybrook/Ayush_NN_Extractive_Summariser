@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e03f9d32-d67f-4654-93ac-e460aae38237" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V8zv7leu9BBEEHm6aw6DoGaEKl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.temp">
+    <configuration name="temp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ayush_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/models/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ayush_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.temp (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e03f9d32-d67f-4654-93ac-e460aae38237" name="Default Changelist" comment="" />
+      <created>1576649738006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576649738006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576828511683">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1576828511683" />
+    <state x="439" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576652548829">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="439" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1576652548829" />
+    <state x="508" y="197" key="FileChooserDialogImpl" timestamp="1576650324377">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="508" y="197" key="FileChooserDialogImpl/0.23.1440.826@0.23.1440.826" timestamp="1576650324377" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom" timestamp="1576834227837">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1576834227837" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center" timestamp="1576834227836">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1576834227836" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left" timestamp="1576834227835">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1576834227835" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right" timestamp="1576834227837">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1576834227837" />
+    <state x="229" y="75" key="SettingsEditor" timestamp="1576650339549">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1576650339549" />
+    <state x="413" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1577118320404">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="413" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1577118320404" />
+    <state x="413" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1576816308614" />
+    <state x="413" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1576649762026" />
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1576654429974">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1576654429974" />
+  </component>
+</project>
